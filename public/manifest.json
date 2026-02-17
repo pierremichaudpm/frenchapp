@@ -1,0 +1,18 @@
+{
+  "name": "CARI Francisation — Petite enfance",
+  "short_name": "CARI Francisation",
+  "description": "Outils numériques de francisation pour la petite enfance immigrante",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F2F6F8",
+  "theme_color": "#263B5A",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/logos/cari-symbol.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
